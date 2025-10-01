@@ -1,6 +1,6 @@
 # WebIDEPlus
 
-A **modern browser-based file explorer, code editor, and terminal** all in one!  
+A **modern browser-based file explorer, code editor, and terminal  by Mohamed FaaFaa** all in one!  
 Access your files, edit code with syntax highlighting, and run terminal commands — all from a sleek, modern interface.
 
 ---
@@ -21,8 +21,10 @@ Access your files, edit code with syntax highlighting, and run terminal commands
 
 ```bash
 git clone https://github.com/nixos69963-png/BrowserI-DE.git
-cd WebIDEPlus
+cd WebIDEPlus 
+python3 app.py
+```
 
 
 
-## by Mohamed FaaFaa
+**by Mohamed FaaFaa**
