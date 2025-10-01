@@ -22,3 +22,6 @@ Access your files, edit code with syntax highlighting, and run terminal commands
 ```bash
 git clone https://github.com/nixos69963-png/BrowserI-DE.git
 cd WebIDEPlus
+
+
+by **Mohamed FaaFaa**
