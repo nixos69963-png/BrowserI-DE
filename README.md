@@ -24,4 +24,4 @@ git clone https://github.com/nixos69963-png/BrowserI-DE.git
 cd WebIDEPlus
 
 
-by **Mohamed FaaFaa**
+by <H1>Mohamed FaaFaa</H1>
