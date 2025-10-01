@@ -20,5 +20,5 @@ Access your files, edit code with syntax highlighting, and run terminal commands
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/WebIDEPlus.git
+git clone https://github.com/nixos69963-png/BrowserI-DE.git
 cd WebIDEPlus
