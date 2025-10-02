@@ -17,14 +17,13 @@ Access your files, edit code with syntax highlighting, and run terminal commands
 
 ## Installation
 
-1. **Clone the repository**:
+1. **Clone the repository and Install required packages**:
 
 ```bash
 git clone https://github.com/nixos69963-png/BrowserI-DE.git
-cd WebIDEPlus 
+cd BrowserI-DE
+pip install flask flask-socketio eventlet
 python3 app.py
 ```
-
-
 
 **by Mohamed FaaFaa**
